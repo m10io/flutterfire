@@ -10,7 +10,7 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\""
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.56",
+    "@docusaurus/core": "^2.0.1",
     "@docusaurus/module-type-aliases": "^2.0.0-alpha.56",
     "@docusaurus/plugin-ideal-image": "^2.0.0-alpha.39",
     "@docusaurus/preset-classic": "^2.0.0-alpha.56",
